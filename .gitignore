@@ -1,0 +1,7 @@
+.idea
+.idea/*
+node_modules/
+allure-report
+allure-results
+package-lock.json
+*.log
